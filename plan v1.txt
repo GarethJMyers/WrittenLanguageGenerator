@@ -1,0 +1,52 @@
+Overall options:
+	- English pronouncable (pronounable to somebody who speaks English)
+	
+
+Word features:
+	- consonants to use
+	- vowels to use (including accents)
+	- constants that can be put together
+	- vowels that can be put together
+	
+	- possible syllables
+	- are syllables all consonent/vowel
+	
+	- word can start with {vowel/consonent/either}
+	- word can end with {vowel/consonent/either}
+	
+	- average number of syllables
+	- max number of syllables
+	- min number of syllables (usually 1?)
+	 -standard deviation of syllables
+	 
+Language/Grammar features:
+	- are homographs allowed
+	- word order {SVO/SOV/OVS/OSV/VSO/VOS}
+	- placement of adjective {before/after/prefix/suffix} noun
+	- placement of adverb {before/after/prefix/suffix} verb
+	- 
+	
+	Tenses:
+		- How are the following formed:
+			- Simple present
+			- Present continuous
+			- Present perfect
+			- Present perfect continuous
+			
+			- Simple past
+			- Past continuous
+			- Past perfect (pluperfect)
+			- Past perfect continuous
+			- Past imperfect
+			
+			- Simple future
+			- Future continuous
+			- Future perfect
+			- Future perfect continuous
+			- Future imperfect
+		
+			Possibilities are:
+			- new verb form
+			- existing verb added somewhere else in sentence
+				- {start/end/prior to verb/after verb}
+			
